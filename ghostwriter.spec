@@ -15,7 +15,6 @@ BuildRequires:	gcc-c++
 BuildRequires:	hunspell-devel
 BuildRequires:	make
 BuildRequires:	pkgconfig
-BuildRequires:	qt5-devel
 BuildRequires:	qt5-qtbase-devel
 BuildRequires:	qt5-qtsvg-devel
 BuildRequires:	qt5-qtwebkit-devel
